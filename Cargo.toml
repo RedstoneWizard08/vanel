@@ -1,5 +1,7 @@
 [package]
+description = "Blank Description"
 edition = "2021"
+license = "GPL-3.0"
 name = "vanel"
 version = "0.1.0"
 

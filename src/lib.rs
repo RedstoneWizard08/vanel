@@ -1,7 +1,4 @@
-pub mod format;
-pub mod util;
-
-pub use format::*;
+pub use libic::*;
 
 pub async fn get_minecraft_versions() -> MinecraftVersionResult {
     let resp =
